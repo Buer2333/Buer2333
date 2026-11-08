@@ -10,10 +10,10 @@
 
 <!-- latest:start -->
 - 2026-11-08 [NO.21 乔布斯旁边本来还站着第三个人，800 美元走了](https://shiningforu.com/diary/apple-third/)
-- 2026-11-04 [NO.20 LV满身老花到底图什么？不是为了炫富🤔](https://shiningforu.com/diary/no20/)
-- 2026-11-02 [NO.19 愿人生长驻上上上上上上上上上升期](https://shiningforu.com/diary/lizhi/)
-- 2026-10-29 [NO.18 用代码剪了一场走秀](https://shiningforu.com/diary/ramalama/)
-- 2026-10-28 [NO.17 Day 13｜跨境电商操盘手，没用过AE，这条特效怎么来的？](https://shiningforu.com/diary/no-ae/)
+- 2026-11-08 [广告户接连被封、平台不给原因：用单变量对照找根因](https://shiningforu.com/brandlab/ad-account-bans/)
+- 2026-11-08 [近 200 个广告组盯不过来：把止损经验写成规则](https://shiningforu.com/brandlab/ads-rules/)
+- 2026-11-08 [新站选关键词：看搜索结果里站着谁，不看搜索量](https://shiningforu.com/brandlab/b2b-head-keyword/)
+- 2026-11-08 [TikTok 之外：独立站、Meta 投放和 IG 官号各管什么](https://shiningforu.com/brandlab/brand-channels/)
 <!-- latest:end -->
 
 [全部内容](https://shiningforu.com) · [RSS](https://shiningforu.com/rss.xml)
