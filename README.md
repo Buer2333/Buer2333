@@ -9,11 +9,11 @@
 #### 最新更新
 
 <!-- latest:start -->
+- 2026-11-11 [NO.23 为什么礼物包装教程都在收藏，却没人在包？](https://shiningforu.com/diary/saved-not-wrapped/)
 - 2026-11-09 [NO.22 客人一走才拆礼物，在美国这叫没礼貌？](https://shiningforu.com/diary/gift-unwrap/)
 - 2026-11-08 [NO.21 乔布斯旁边本来还站着第三个人，800 美元走了](https://shiningforu.com/diary/apple-third/)
 - 2026-11-08 [广告户接连被封、平台不给原因：用单变量对照找根因](https://shiningforu.com/brandlab/ad-account-bans/)
 - 2026-11-08 [近 200 个广告组盯不过来：把止损经验写成规则](https://shiningforu.com/brandlab/ads-rules/)
-- 2026-11-08 [新站选关键词：看搜索结果里站着谁，不看搜索量](https://shiningforu.com/brandlab/b2b-head-keyword/)
 <!-- latest:end -->
 
 [全部内容](https://shiningforu.com) · [RSS](https://shiningforu.com/rss.xml)
