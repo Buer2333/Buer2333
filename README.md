@@ -9,11 +9,11 @@
 #### 最新更新
 
 <!-- latest:start -->
+- 2026-11-18 [NO.26 验证码说我不是真人，我哪里不像人了](https://shiningforu.com/diary/captcha/)
 - 2026-11-16 [NO.25 英伟达没有一座芯片工厂，那它卖的是什么？](https://shiningforu.com/diary/fabless/)
 - 2026-11-15 [NO.24 在一架即将坠毁的飞机上，要不要叫醒身边的爱人？两个结局都跑一遍给你看](https://shiningforu.com/diary/wake/)
 - 2026-11-11 [NO.23 为什么礼物包装教程都在收藏，却没人在包？](https://shiningforu.com/diary/saved-not-wrapped/)
 - 2026-11-09 [NO.22 客人一走才拆礼物，在美国这叫没礼貌？](https://shiningforu.com/diary/gift-unwrap/)
-- 2026-11-08 [NO.21 乔布斯旁边本来还站着第三个人，800 美元走了](https://shiningforu.com/diary/apple-third/)
 <!-- latest:end -->
 
 [全部内容](https://shiningforu.com) · [RSS](https://shiningforu.com/rss.xml)
