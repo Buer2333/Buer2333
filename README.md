@@ -9,11 +9,11 @@
 #### 最新更新
 
 <!-- latest:start -->
+- 2026-11-20 [NO.27 GTA6满街广告牌，为啥一块都不卖](https://shiningforu.com/diary/gta-noads/)
 - 2026-11-18 [NO.26 验证码说我不是真人，我哪里不像人了](https://shiningforu.com/diary/captcha/)
 - 2026-11-16 [NO.25 英伟达没有一座芯片工厂，那它卖的是什么？](https://shiningforu.com/diary/fabless/)
 - 2026-11-15 [NO.24 在一架即将坠毁的飞机上，要不要叫醒身边的爱人？两个结局都跑一遍给你看](https://shiningforu.com/diary/wake/)
 - 2026-11-11 [NO.23 为什么礼物包装教程都在收藏，却没人在包？](https://shiningforu.com/diary/saved-not-wrapped/)
-- 2026-11-09 [NO.22 客人一走才拆礼物，在美国这叫没礼貌？](https://shiningforu.com/diary/gift-unwrap/)
 <!-- latest:end -->
 
 [全部内容](https://shiningforu.com) · [RSS](https://shiningforu.com/rss.xml)
