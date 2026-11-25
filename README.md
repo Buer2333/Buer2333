@@ -9,11 +9,11 @@
 #### 最新更新
 
 <!-- latest:start -->
+- 2026-11-25 [NO.31 古人摸鱼，被画进了千里江山图](https://shiningforu.com/diary/afterwork/)
 - 2026-11-24 [NO.30 谁懂！！对抗性审查在agent中的含金量](https://shiningforu.com/diary/balls/)
 - 2026-11-23 [NO.29 一千个冬天，长这样](https://shiningforu.com/diary/december/)
 - 2026-11-22 [NO.28 这块巧克力出厂就少一格，亏了吗](https://shiningforu.com/diary/last-square/)
 - 2026-11-20 [NO.27 GTA6满街广告牌，为啥一块都不卖](https://shiningforu.com/diary/gta-noads/)
-- 2026-11-18 [NO.26 验证码说我不是真人，我哪里不像人了](https://shiningforu.com/diary/captcha/)
 <!-- latest:end -->
 
 [全部内容](https://shiningforu.com) · [RSS](https://shiningforu.com/rss.xml)
